@@ -1,6 +1,7 @@
 {
-  "name": "Scrim-s06j0u5",
-  "description": "https://scrimba.com/learn-react-c0e/~04n7",
+  "name": "guess-the-word",
+  "description": "Built a fun and interactive React game where users can guess tech-related words, similar to Wordle, to test their tech knowledge.",
+
   "scripts": {
     "start": "vite",
     "dev": "vite",
